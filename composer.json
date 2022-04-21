@@ -1,9 +1,9 @@
 {
-    "name": "jxlwqq/code-mirror",
+    "name": "snowsoft/code-mirror",
     "description": "code editor extension for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/jxlwqq/code-mirror",
+    "homepage": "https://github.com/snowsoft/code-mirror",
     "license": "MIT",
     "authors": [
         {
@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "encore/laravel-admin": "~1.6|~1.7"
+        "snowsoft/laravel-admin": "~1.6|~1.7"
     },
     "require-dev": {
         "phpunit/phpunit": "~6.0"
